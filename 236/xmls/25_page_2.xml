@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>25_page_2.png</filename>
+	<path>C:\Users\Administrator\PycharmProjects\review\biaogao\B\300\images\25_page_2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2382</width>
+		<height>1685</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>96</ymin>
+			<xmax>2377</xmax>
+			<ymax>681</ymax>
+		</bndbox>
+	</object>
+	</annotation>

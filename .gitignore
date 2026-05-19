@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+
+
+# Temp crops (intermediate analysis files)
+temp_crops/
+**/debug_crops/
+
+# Local assistant/config files
+.claude/settings.local.json
+
+# Model weights and training artifacts
+*.pt
+*.pth
+*.onnx
+*.engine
+*.ckpt
+**/weights/
+runs/
+
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Env
+.env
+*.egg-info/

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>page39-74.png</filename>
+	<path>C:\Users\35137\Desktop\159+77\images\page39-74.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2482</width>
+		<height>1755</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>121</ymin>
+			<xmax>2430</xmax>
+			<ymax>734</ymax>
+		</bndbox>
+	</object>
+	</annotation>

@@ -1,0 +1,296 @@
+{
+  "image": "C:\\yw\\Project\\jt-master\\GL5.102.AZ-507(1)_images\\page_0019.png",
+  "model": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\models\\elevation_detect_v2\\weights\\best.pt",
+  "dataset_images": "C:\\yw\\Project\\jt-master\\236\\images",
+  "original_size": [
+    24578,
+    15794
+  ],
+  "content_crop_bbox": [
+    207,
+    31,
+    24400,
+    4976
+  ],
+  "content_crop_size": [
+    24193,
+    4945
+  ],
+  "vertical_only": true,
+  "source_tile_size": [
+    6990,
+    4945
+  ],
+  "model_input_size": [
+    2382,
+    1685
+  ],
+  "overlap": 1200,
+  "confidence_threshold": 0.25,
+  "model_iou": 0.7,
+  "nms_iou": 0.4,
+  "tiles": [
+    {
+      "row": 0,
+      "col": 0,
+      "tile_path": "projects\\elevation_detection\\results\\page_0019_vertical_segments_opt\\tiles\\tile_r00_c00_x0_y0.png",
+      "source_size": [
+        6990,
+        4945
+      ],
+      "model_input_size": [
+        2382,
+        1685
+      ],
+      "crop_bbox": [
+        0,
+        0,
+        6990,
+        4945
+      ],
+      "original_bbox": [
+        207,
+        31,
+        7197,
+        4976
+      ]
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "tile_path": "projects\\elevation_detection\\results\\page_0019_vertical_segments_opt\\tiles\\tile_r00_c01_x5790_y0.png",
+      "source_size": [
+        6990,
+        4945
+      ],
+      "model_input_size": [
+        2382,
+        1685
+      ],
+      "crop_bbox": [
+        5790,
+        0,
+        12780,
+        4945
+      ],
+      "original_bbox": [
+        5997,
+        31,
+        12987,
+        4976
+      ]
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "tile_path": "projects\\elevation_detection\\results\\page_0019_vertical_segments_opt\\tiles\\tile_r00_c02_x11580_y0.png",
+      "source_size": [
+        6990,
+        4945
+      ],
+      "model_input_size": [
+        2382,
+        1685
+      ],
+      "crop_bbox": [
+        11580,
+        0,
+        18570,
+        4945
+      ],
+      "original_bbox": [
+        11787,
+        31,
+        18777,
+        4976
+      ]
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "tile_path": "projects\\elevation_detection\\results\\page_0019_vertical_segments_opt\\tiles\\tile_r00_c03_x17203_y0.png",
+      "source_size": [
+        6990,
+        4945
+      ],
+      "model_input_size": [
+        2382,
+        1685
+      ],
+      "crop_bbox": [
+        17203,
+        0,
+        24193,
+        4945
+      ],
+      "original_bbox": [
+        17410,
+        31,
+        24400,
+        4976
+      ]
+    }
+  ],
+  "raw_detection_count": 6,
+  "shape_filtered_detection_count": 5,
+  "final_detection_count": 4,
+  "min_box_aspect": 1.8,
+  "min_box_width": 0,
+  "min_box_height": 0,
+  "expand_x_ratio": 0.06,
+  "expand_y_ratio": 0.0,
+  "detections": [
+    {
+      "bbox": [
+        1378.7949228666291,
+        584.4462956731327,
+        7247.854007911202,
+        2506.0132464400385
+      ],
+      "crop_bbox": [
+        1486.2088024225884,
+        553.4462956731327,
+        6726.440128355242,
+        2475.0132464400385
+      ],
+      "model_input_bbox": [
+        506.4591369628906,
+        188.58584594726562,
+        2292.18603515625,
+        843.3563842773438
+      ],
+      "confidence": 0.7591389417648315,
+      "class_id": 0,
+      "class_name": "A",
+      "tile": {
+        "row": 0,
+        "col": 0,
+        "x": 0,
+        "y": 0
+      },
+      "box_width": 5240.231325932654,
+      "box_height": 1921.5669507669058,
+      "box_aspect": 2.7270615389389654,
+      "bbox_before_expand": [
+        1693.2088024225884,
+        584.4462956731327,
+        6933.440128355242,
+        2506.0132464400385
+      ]
+    },
+    {
+      "bbox": [
+        6469.462071762277,
+        603.0043037029685,
+        12339.12356217622,
+        2502.5712577299123
+      ],
+      "crop_bbox": [
+        6576.908223034453,
+        572.0043037029685,
+        11817.677410904045,
+        2471.5712577299123
+      ],
+      "model_input_bbox": [
+        268.1567077636719,
+        194.90945434570312,
+        2054.06689453125,
+        842.1835327148438
+      ],
+      "confidence": 0.8132442831993103,
+      "class_id": 0,
+      "class_name": "A",
+      "tile": {
+        "row": 0,
+        "col": 1,
+        "x": 5790,
+        "y": 0
+      },
+      "box_width": 5240.769187869592,
+      "box_height": 1899.5669540269437,
+      "box_aspect": 2.758928384577097,
+      "bbox_before_expand": [
+        6783.908223034453,
+        603.0043037029685,
+        12024.677410904045,
+        2502.5712577299123
+      ]
+    },
+    {
+      "bbox": [
+        12085.479586238525,
+        629.9970737989296,
+        17953.656627856813,
+        2690.973926397035
+      ],
+      "crop_bbox": [
+        12192.846213468076,
+        598.9970737989296,
+        17432.29000062726,
+        2659.973926397035
+      ],
+      "model_input_bbox": [
+        208.84115600585938,
+        204.10719299316406,
+        1994.2996826171875,
+        906.3814086914062
+      ],
+      "confidence": 0.7519299983978271,
+      "class_id": 0,
+      "class_name": "A",
+      "tile": {
+        "row": 0,
+        "col": 2,
+        "x": 11580,
+        "y": 0
+      },
+      "box_width": 5239.443787159185,
+      "box_height": 2060.9768525981053,
+      "box_aspect": 2.5422137956349418,
+      "bbox_before_expand": [
+        12399.846213468076,
+        629.9970737989296,
+        17639.29000062726,
+        2690.973926397035
+      ]
+    },
+    {
+      "bbox": [
+        17182.177940772464,
+        647.8893787146322,
+        21634.967192414184,
+        2603.0907263147374
+      ],
+      "crop_bbox": [
+        17213.720222110413,
+        616.8893787146322,
+        21189.424911076236,
+        2572.0907263147374
+      ],
+      "model_input_bbox": [
+        3.6531572341918945,
+        210.20396423339844,
+        1358.464111328125,
+        876.4353637695312
+      ],
+      "confidence": 0.8483566045761108,
+      "class_id": 0,
+      "class_name": "A",
+      "tile": {
+        "row": 0,
+        "col": 3,
+        "x": 17203,
+        "y": 0
+      },
+      "box_width": 3975.704688965823,
+      "box_height": 1955.2013476001052,
+      "box_aspect": 2.033399114544273,
+      "bbox_before_expand": [
+        17420.720222110413,
+        647.8893787146322,
+        21396.424911076236,
+        2603.0907263147374
+      ]
+    }
+  ]
+}

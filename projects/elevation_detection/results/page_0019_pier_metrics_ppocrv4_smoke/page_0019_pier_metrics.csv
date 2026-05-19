@@ -1,0 +1,4 @@
+﻿pier_index,pier_number,number_source,top_elevation,middle_elevation,bottom_elevation,pier_height,embed_depth,span_group,span_length,match_status,status
+1,1,sequential_left_to_right,17.847,8.500,-16.000,9.347,24.500,1,2000,local_geometry,local_geometry
+2,2,sequential_left_to_right,17.847,10.500,-16.000,7.347,26.500,1,2000,local_geometry,local_geometry
+3,3,sequential_left_to_right,17.835,10.500,-15.000,7.335,25.500,1,2000,local_geometry,local_geometry

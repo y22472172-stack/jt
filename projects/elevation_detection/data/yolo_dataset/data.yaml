@@ -1,0 +1,8 @@
+# YOLO Dataset Config
+path: c:\yw\Project\jt-master\projects\elevation_detection\data\yolo_dataset
+train: images/train
+val: images/val
+
+# Classes
+names:
+  0: A  # 立面图
