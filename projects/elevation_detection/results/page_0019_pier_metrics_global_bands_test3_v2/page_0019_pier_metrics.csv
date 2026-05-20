@@ -1,4 +1,0 @@
-﻿pier_index,pier_number,number_source,top_elevation,middle_elevation,bottom_elevation,pier_height,embed_depth,match_status,status
-1,1,ocr,17.847,10.5,-19.5,7.347,30.0,valid_global_constraint,valid_global_constraint
-2,2,ocr,17.847,10.5,-19.5,7.347,30.0,valid_global_constraint,valid_global_constraint
-3,3,ocr,17.835,10.5,,7.335,,partial_constraint,partial_constraint;missing_or_invalid_middle_bottom
