@@ -1,0 +1,8 @@
+names:
+- D1
+- D2
+- L1
+nc: 3
+path: /home/user/lyj/qiaotai3/sub_roi_dataset/lim
+train: images/train
+val: images/val

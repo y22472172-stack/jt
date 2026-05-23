@@ -1,0 +1,1184 @@
+{
+  "model": "c:\\Users\\ASUS\\Desktop\\output\\limian\\yolo\\weights\\best.pt",
+  "images_dir": "c:\\yw\\Project\\jt-master\\73\\images",
+  "xmls_dir": "c:\\yw\\Project\\jt-master\\73\\xmls",
+  "output_dir": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best",
+  "conf": 0.25,
+  "iou": 0.7,
+  "imgsz": 1280,
+  "pad": 0,
+  "crops": [
+    {
+      "bbox": [
+        190,
+        71,
+        1154,
+        1112
+      ],
+      "confidence": 0.9125123023986816,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt1.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt1.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt1_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt1_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        206,
+        80,
+        1252,
+        1160
+      ],
+      "confidence": 0.8752394914627075,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt10.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt10.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt10_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt10_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        179,
+        85,
+        1467,
+        1074
+      ],
+      "confidence": 0.900270402431488,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt11.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt11.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt11_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt11_roi0.xml",
+      "objects_kept": 8
+    },
+    {
+      "bbox": [
+        198,
+        74,
+        1190,
+        1111
+      ],
+      "confidence": 0.8621264100074768,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt12.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt12.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt12_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt12_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        166,
+        62,
+        1211,
+        906
+      ],
+      "confidence": 0.9095008373260498,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt13.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt13.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt13_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt13_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        194,
+        99,
+        1345,
+        863
+      ],
+      "confidence": 0.9189893007278442,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt14.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt14.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt14_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt14_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        227,
+        88,
+        1411,
+        904
+      ],
+      "confidence": 0.8984396457672119,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt15.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt15.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt15_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt15_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        159,
+        64,
+        1293,
+        894
+      ],
+      "confidence": 0.9041780829429626,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt16.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt16.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt16_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt16_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        227,
+        64,
+        1490,
+        918
+      ],
+      "confidence": 0.885673999786377,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt17.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt17.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt17_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt17_roi0.xml",
+      "objects_kept": 8
+    },
+    {
+      "bbox": [
+        199,
+        59,
+        1374,
+        998
+      ],
+      "confidence": 0.8927310705184937,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt18.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt18.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt18_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt18_roi0.xml",
+      "objects_kept": 8
+    },
+    {
+      "bbox": [
+        299,
+        84,
+        1416,
+        1136
+      ],
+      "confidence": 0.883124589920044,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt19.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt19.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt19_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt19_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        166,
+        52,
+        1383,
+        932
+      ],
+      "confidence": 0.8783082365989685,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt2.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt2.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt2_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt2_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        208,
+        72,
+        1270,
+        1007
+      ],
+      "confidence": 0.8811759948730469,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt20.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt20.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt20_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt20_roi0.xml",
+      "objects_kept": 8
+    },
+    {
+      "bbox": [
+        175,
+        63,
+        1337,
+        937
+      ],
+      "confidence": 0.9132699966430664,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt21.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt21.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt21_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt21_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        132,
+        71,
+        1242,
+        925
+      ],
+      "confidence": 0.9017736911773682,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt22.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt22.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt22_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt22_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        149,
+        72,
+        1190,
+        1028
+      ],
+      "confidence": 0.8675646185874939,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt23.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt23.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt23_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt23_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        166,
+        65,
+        1285,
+        895
+      ],
+      "confidence": 0.9032800197601318,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt24.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt24.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt24_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt24_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        190,
+        71,
+        1154,
+        1112
+      ],
+      "confidence": 0.9125123023986816,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt25.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt25.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt25_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt25_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        183,
+        58,
+        1126,
+        1161
+      ],
+      "confidence": 0.9047144055366516,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt26.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt26.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt26_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt26_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        185,
+        69,
+        1375,
+        949
+      ],
+      "confidence": 0.8979932069778442,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt27.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt27.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt27_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt27_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        193,
+        65,
+        1333,
+        1077
+      ],
+      "confidence": 0.894010066986084,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt28.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt28.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt28_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt28_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        212,
+        83,
+        1289,
+        1132
+      ],
+      "confidence": 0.8705665469169617,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt29.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt29.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt29_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt29_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        183,
+        58,
+        1126,
+        1161
+      ],
+      "confidence": 0.9047144055366516,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt3.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt3.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt3_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt3_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        226,
+        79,
+        1232,
+        1174
+      ],
+      "confidence": 0.8833336234092712,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt30.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt30.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt30_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt30_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        206,
+        80,
+        1252,
+        1160
+      ],
+      "confidence": 0.8752394914627075,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt31.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt31.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt31_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt31_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        179,
+        85,
+        1467,
+        1074
+      ],
+      "confidence": 0.900270402431488,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt32.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt32.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt32_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt32_roi0.xml",
+      "objects_kept": 8
+    },
+    {
+      "bbox": [
+        198,
+        74,
+        1190,
+        1111
+      ],
+      "confidence": 0.8621264100074768,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt33.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt33.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt33_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt33_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        166,
+        62,
+        1211,
+        906
+      ],
+      "confidence": 0.9095008373260498,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt34.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt34.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt34_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt34_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        299,
+        84,
+        1416,
+        1136
+      ],
+      "confidence": 0.883124589920044,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt35.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt35.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt35_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt35_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        238,
+        76,
+        1363,
+        1140
+      ],
+      "confidence": 0.8752582669258118,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt36.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt36.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt36_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt36_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        183,
+        70,
+        1335,
+        1092
+      ],
+      "confidence": 0.8718328475952148,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt37.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt37.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt37_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt37_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        165,
+        69,
+        1305,
+        964
+      ],
+      "confidence": 0.8912686705589294,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt38.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt38.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt38_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt38_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        183,
+        69,
+        1377,
+        948
+      ],
+      "confidence": 0.8987575769424438,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt39.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt39.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt39_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt39_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        185,
+        69,
+        1375,
+        949
+      ],
+      "confidence": 0.8979932069778442,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt4.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt4.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt4_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt4_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        191,
+        66,
+        1241,
+        1133
+      ],
+      "confidence": 0.9025066494941711,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt40.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt40.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt40_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt40_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        247,
+        69,
+        1360,
+        1046
+      ],
+      "confidence": 0.8484054207801819,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt41.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt41.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt41_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt41_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        160,
+        64,
+        1260,
+        928
+      ],
+      "confidence": 0.8970385193824768,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt42.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt42.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt42_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt42_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        189,
+        82,
+        1426,
+        1100
+      ],
+      "confidence": 0.8480008244514465,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt43.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt43.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt43_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt43_roi0.xml",
+      "objects_kept": 10
+    },
+    {
+      "bbox": [
+        171,
+        65,
+        1277,
+        946
+      ],
+      "confidence": 0.9067360758781433,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt44.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt44.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt44_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt44_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        170,
+        67,
+        1235,
+        885
+      ],
+      "confidence": 0.9002249836921692,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt45.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt45.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt45_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt45_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        145,
+        56,
+        1442,
+        852
+      ],
+      "confidence": 0.8763638138771057,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt46.jpg",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt46.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt46_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt46_roi0.xml",
+      "objects_kept": 8
+    },
+    {
+      "bbox": [
+        360,
+        125,
+        2576,
+        2062
+      ],
+      "confidence": 0.8912152647972107,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt47.jpg",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt47.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt47_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt47_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        357,
+        117,
+        3433,
+        2188
+      ],
+      "confidence": 0.8564092516899109,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt48.jpg",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt48.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt48_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt48_roi0.xml",
+      "objects_kept": 8
+    },
+    {
+      "bbox": [
+        453,
+        126,
+        3032,
+        2069
+      ],
+      "confidence": 0.8806039690971375,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt49.jpg",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt49.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt49_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt49_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        153,
+        63,
+        1277,
+        866
+      ],
+      "confidence": 0.9015781879425049,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt5.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt5.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt5_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt5_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        423,
+        123,
+        3088,
+        1927
+      ],
+      "confidence": 0.8607476949691772,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt50.jpg",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt50.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt50_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt50_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        786,
+        135,
+        2767,
+        2056
+      ],
+      "confidence": 0.8454200625419617,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt51.jpg",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt51.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt51_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt51_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        151,
+        53,
+        1144,
+        909
+      ],
+      "confidence": 0.8663370013237,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt52.jpg",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt52.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt52_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt52_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        113,
+        50,
+        1499,
+        929
+      ],
+      "confidence": 0.8104746341705322,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt53.jpg",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt53.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt53_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt53_roi0.xml",
+      "objects_kept": 8
+    },
+    {
+      "bbox": [
+        212,
+        56,
+        1338,
+        824
+      ],
+      "confidence": 0.876635730266571,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt54.jpg",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt54.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt54_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt54_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        219,
+        58,
+        1318,
+        823
+      ],
+      "confidence": 0.8864293694496155,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt55.jpg",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt55.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt55_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt55_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        286,
+        134,
+        2841,
+        2083
+      ],
+      "confidence": 0.8846243619918823,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt56.jpg",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt56.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt56_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt56_roi0.xml",
+      "objects_kept": 7
+    },
+    {
+      "bbox": [
+        143,
+        67,
+        1343,
+        998
+      ],
+      "confidence": 0.8953771591186523,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt57.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt57.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt57_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt57_roi0.xml",
+      "objects_kept": 7
+    },
+    {
+      "bbox": [
+        167,
+        68,
+        1376,
+        927
+      ],
+      "confidence": 0.9058453440666199,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt58.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt58.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt58_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt58_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        190,
+        94,
+        1294,
+        837
+      ],
+      "confidence": 0.9230562448501587,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt59.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt59.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt59_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt59_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        193,
+        65,
+        1333,
+        1077
+      ],
+      "confidence": 0.894010066986084,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt6.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt6.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt6_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt6_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        223,
+        88,
+        1336,
+        870
+      ],
+      "confidence": 0.8995037078857422,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt60.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt60.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt60_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt60_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        189,
+        57,
+        1097,
+        1110
+      ],
+      "confidence": 0.8779577612876892,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt61.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt61.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt61_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt61_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        180,
+        65,
+        1316,
+        909
+      ],
+      "confidence": 0.8918015360832214,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt62.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt62.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt62_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt62_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        200,
+        81,
+        1251,
+        1085
+      ],
+      "confidence": 0.8766705393791199,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt63.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt63.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt63_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt63_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        180,
+        66,
+        1154,
+        1078
+      ],
+      "confidence": 0.8557893633842468,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt64.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt64.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt64_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt64_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        168,
+        60,
+        1181,
+        861
+      ],
+      "confidence": 0.9076520204544067,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt65.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt65.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt65_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt65_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        209,
+        75,
+        1197,
+        1112
+      ],
+      "confidence": 0.8640349507331848,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt66.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt66.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt66_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt66_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        187,
+        75,
+        1209,
+        1116
+      ],
+      "confidence": 0.8952560424804688,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt67.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt67.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt67_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt67_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        170,
+        64,
+        1152,
+        1023
+      ],
+      "confidence": 0.8801867365837097,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt68.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt68.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt68_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt68_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        181,
+        66,
+        1315,
+        909
+      ],
+      "confidence": 0.8917298316955566,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt69.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt69.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt69_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt69_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        212,
+        83,
+        1289,
+        1132
+      ],
+      "confidence": 0.8705665469169617,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt7.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt7.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt7_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt7_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        182,
+        61,
+        1192,
+        1113
+      ],
+      "confidence": 0.8725282549858093,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt70.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt70.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt70_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt70_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        185,
+        77,
+        1371,
+        1068
+      ],
+      "confidence": 0.8638598918914795,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt71.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt71.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt71_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt71_roi0.xml",
+      "objects_kept": 10
+    },
+    {
+      "bbox": [
+        205,
+        86,
+        1393,
+        909
+      ],
+      "confidence": 0.9000200629234314,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt72.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt72.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt72_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt72_roi0.xml",
+      "objects_kept": 8
+    },
+    {
+      "bbox": [
+        248,
+        80,
+        1171,
+        990
+      ],
+      "confidence": 0.8166621327400208,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt73.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt73.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt73_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt73_roi0.xml",
+      "objects_kept": 5
+    },
+    {
+      "bbox": [
+        163,
+        64,
+        1366,
+        1062
+      ],
+      "confidence": 0.8859838843345642,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt8.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt8.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt8_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt8_roi0.xml",
+      "objects_kept": 8
+    },
+    {
+      "bbox": [
+        226,
+        79,
+        1232,
+        1174
+      ],
+      "confidence": 0.8833336234092712,
+      "class_id": 0,
+      "class_name": "lim",
+      "source_image": "c:\\yw\\Project\\jt-master\\73\\images\\qt9.png",
+      "source_xml": "c:\\yw\\Project\\jt-master\\73\\xmls\\qt9.xml",
+      "output_image": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\images\\qt9_roi0.png",
+      "output_xml": "c:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt9_roi0.xml",
+      "objects_kept": 5
+    }
+  ],
+  "skipped": [],
+  "total_input_images": 73,
+  "total_output_crops": 73,
+  "total_objects_kept": 409
+}

@@ -1,0 +1,8 @@
+path: C:/yw/Project/jt-master/sub_roi_dataset/lim
+train: images/train
+val: images/val
+nc: 3
+names:
+  - D1
+  - D2
+  - L1

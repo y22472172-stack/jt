@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "bbox": [
+        2171.849853515625,
+        956.92919921875,
+        2310.3408203125,
+        1088.6990966796875
+      ],
+      "confidence": 0.7054328918457031,
+      "class_id": 0,
+      "class_name": "D1",
+      "alias": "柱宽",
+      "bbox_abs": [
+        2624.849853515625,
+        1098.92919921875,
+        2763.3408203125,
+        1230.6990966796875
+      ],
+      "ocr_bbox_in_crop": [
+        2154,
+        943,
+        2328,
+        1103
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_root_best_paddleocrv4_gpu\\ocr_crops\\01_D1_0.71.png"
+    },
+    {
+      "bbox": [
+        1142.2613525390625,
+        963.2391967773438,
+        1279.27880859375,
+        1095.403076171875
+      ],
+      "confidence": 0.7104009985923767,
+      "class_id": 0,
+      "class_name": "D1",
+      "alias": "柱宽",
+      "bbox_abs": [
+        1595.2613525390625,
+        1105.2391967773438,
+        1732.27880859375,
+        1237.403076171875
+      ],
+      "ocr_bbox_in_crop": [
+        1124,
+        949,
+        1297,
+        1109
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_root_best_paddleocrv4_gpu\\ocr_crops\\02_D1_0.71.png"
+    },
+    {
+      "bbox": [
+        2082.12841796875,
+        1132.2054443359375,
+        2416.73681640625,
+        1367.9989013671875
+      ],
+      "confidence": 0.23182085156440735,
+      "class_id": 0,
+      "class_name": "D1",
+      "alias": "柱宽",
+      "bbox_abs": [
+        2535.12841796875,
+        1274.2054443359375,
+        2869.73681640625,
+        1509.9989013671875
+      ],
+      "ocr_bbox_in_crop": [
+        2064,
+        1118,
+        2435,
+        1382
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_root_best_paddleocrv4_gpu\\ocr_crops\\03_D1_0.23.png"
+    },
+    {
+      "bbox": [
+        1123.2137451171875,
+        1848.4056396484375,
+        1306.593017578125,
+        2013.28564453125
+      ],
+      "confidence": 0.2191493660211563,
+      "class_id": 0,
+      "class_name": "D1",
+      "alias": "柱宽",
+      "bbox_abs": [
+        1576.2137451171875,
+        1990.4056396484375,
+        1759.593017578125,
+        2155.28564453125
+      ],
+      "ocr_bbox_in_crop": [
+        1105,
+        1834,
+        1325,
+        2027
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_root_best_paddleocrv4_gpu\\ocr_crops\\04_D1_0.22.png"
+    },
+    {
+      "bbox": [
+        1606.4183349609375,
+        863.854248046875,
+        1854.6181640625,
+        1014.7413330078125
+      ],
+      "confidence": 0.6730265021324158,
+      "class_id": 2,
+      "class_name": "L1",
+      "alias": "柱距",
+      "bbox_abs": [
+        2059.4183349609375,
+        1005.854248046875,
+        2307.6181640625,
+        1156.7413330078125
+      ],
+      "ocr_bbox_in_crop": [
+        1588,
+        850,
+        1873,
+        1029
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_root_best_paddleocrv4_gpu\\ocr_crops\\05_L1_0.67.png"
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "image": "C:\\yw\\Project\\jt-master\\GL5.102.AZ-507(1)_images\\page_0022.png",
+  "limian_model": "C:\\Users\\ASUS\\Desktop\\output\\limian\\yolo\\weights\\best.pt",
+  "d1d2_model": "C:\\yw\\Project\\jt-master\\output\\text_detection_73_cropped_by_best\\yolov8m\\weights\\best.pt",
+  "l1_model": "C:\\yw\\Project\\jt-master\\best.pt",
+  "ocr_engine": "paddleocrv4",
+  "ocr_device": "gpu:0",
+  "limian_detection": {
+    "bbox": [
+      472.8082580566406,
+      162.21022033691406,
+      3875.740478515625,
+      2672.21826171875
+    ],
+    "confidence": 0.7678396105766296,
+    "class_id": 0,
+    "class_name": "lim",
+    "alias": "lim",
+    "source_model": "C:\\Users\\ASUS\\Desktop\\output\\limian\\yolo\\weights\\best.pt"
+  },
+  "crop_bbox": [
+    453,
+    142,
+    3896,
+    2692
+  ],
+  "crop_path": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_mixed_old_d1d2_rootbest_l1_paddleocrv4_gpu\\page_0022_abutment_elevation_crop.png",
+  "raw_d1d2_detections": [
+    {
+      "bbox": [
+        2149.38134765625,
+        1011.9022216796875,
+        2328.059814453125,
+        1094.8165283203125
+      ],
+      "confidence": 0.7361266613006592,
+      "class_id": 0,
+      "class_name": "D1",
+      "alias": "column_width",
+      "source_model": "C:\\yw\\Project\\jt-master\\output\\text_detection_73_cropped_by_best\\yolov8m\\weights\\best.pt"
+    },
+    {
+      "bbox": [
+        1124.8079833984375,
+        1012.4986572265625,
+        1292.6407470703125,
+        1099.65625
+      ],
+      "confidence": 0.5544695258140564,
+      "class_id": 0,
+      "class_name": "D1",
+      "alias": "column_width",
+      "source_model": "C:\\yw\\Project\\jt-master\\output\\text_detection_73_cropped_by_best\\yolov8m\\weights\\best.pt"
+    },
+    {
+      "bbox": [
+        2131.71484375,
+        1900.414794921875,
+        2351.2451171875,
+        2011.91259765625
+      ],
+      "confidence": 0.7907891869544983,
+      "class_id": 1,
+      "class_name": "D2",
+      "alias": "pile_diameter",
+      "source_model": "C:\\yw\\Project\\jt-master\\output\\text_detection_73_cropped_by_best\\yolov8m\\weights\\best.pt"
+    },
+    {
+      "bbox": [
+        1094.343505859375,
+        1903.624755859375,
+        1317.0250244140625,
+        2012.5594482421875
+      ],
+      "confidence": 0.802735447883606,
+      "class_id": 1,
+      "class_name": "D2",
+      "alias": "pile_diameter",
+      "source_model": "C:\\yw\\Project\\jt-master\\output\\text_detection_73_cropped_by_best\\yolov8m\\weights\\best.pt"
+    }
+  ],
+  "raw_l1_detections": [
+    {
+      "bbox": [
+        1606.4183349609375,
+        863.854248046875,
+        1854.6181640625,
+        1014.7413330078125
+      ],
+      "confidence": 0.6730265021324158,
+      "class_id": 2,
+      "class_name": "L1",
+      "alias": "column_spacing",
+      "source_model": "C:\\yw\\Project\\jt-master\\best.pt"
+    }
+  ],
+  "detections": [
+    {
+      "bbox": [
+        2149.38134765625,
+        1011.9022216796875,
+        2328.059814453125,
+        1094.8165283203125
+      ],
+      "confidence": 0.7361266613006592,
+      "class_id": 0,
+      "class_name": "D1",
+      "alias": "column_width",
+      "source_model": "C:\\yw\\Project\\jt-master\\output\\text_detection_73_cropped_by_best\\yolov8m\\weights\\best.pt",
+      "bbox_abs": [
+        2602.38134765625,
+        1153.9022216796875,
+        2781.059814453125,
+        1236.8165283203125
+      ],
+      "ocr_bbox_in_crop": [
+        2131,
+        998,
+        2346,
+        1109
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_mixed_old_d1d2_rootbest_l1_paddleocrv4_gpu\\ocr_crops\\01_D1_0.74.png",
+      "ocr_engine": "paddleocrv4",
+      "ocr_device": "gpu:0",
+      "ocr_rows": [
+        {
+          "text": "80",
+          "confidence": 0.7426100373268127,
+          "bbox": [
+            47.0,
+            1.0,
+            144.33333333333334,
+            77.33333333333333
+          ]
+        }
+      ],
+      "ocr_text": "80",
+      "numeric_value_text": "80"
+    },
+    {
+      "bbox": [
+        1124.8079833984375,
+        1012.4986572265625,
+        1292.6407470703125,
+        1099.65625
+      ],
+      "confidence": 0.5544695258140564,
+      "class_id": 0,
+      "class_name": "D1",
+      "alias": "column_width",
+      "source_model": "C:\\yw\\Project\\jt-master\\output\\text_detection_73_cropped_by_best\\yolov8m\\weights\\best.pt",
+      "bbox_abs": [
+        1577.8079833984375,
+        1154.4986572265625,
+        1745.6407470703125,
+        1241.65625
+      ],
+      "ocr_bbox_in_crop": [
+        1107,
+        998,
+        1311,
+        1114
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_mixed_old_d1d2_rootbest_l1_paddleocrv4_gpu\\ocr_crops\\02_D1_0.55.png",
+      "ocr_engine": "paddleocrv4",
+      "ocr_device": "gpu:0",
+      "ocr_rows": [
+        {
+          "text": "80",
+          "confidence": 0.9986932277679443,
+          "bbox": [
+            75.0,
+            27.666666666666668,
+            121.66666666666667,
+            65.66666666666667
+          ]
+        }
+      ],
+      "ocr_text": "80",
+      "numeric_value_text": "80"
+    },
+    {
+      "bbox": [
+        2131.71484375,
+        1900.414794921875,
+        2351.2451171875,
+        2011.91259765625
+      ],
+      "confidence": 0.7907891869544983,
+      "class_id": 1,
+      "class_name": "D2",
+      "alias": "pile_diameter",
+      "source_model": "C:\\yw\\Project\\jt-master\\output\\text_detection_73_cropped_by_best\\yolov8m\\weights\\best.pt",
+      "bbox_abs": [
+        2584.71484375,
+        2042.414794921875,
+        2804.2451171875,
+        2153.91259765625
+      ],
+      "ocr_bbox_in_crop": [
+        2114,
+        1886,
+        2369,
+        2026
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_mixed_old_d1d2_rootbest_l1_paddleocrv4_gpu\\ocr_crops\\03_D2_0.79.png",
+      "ocr_engine": "paddleocrv4",
+      "ocr_device": "gpu:0",
+      "ocr_rows": [
+        {
+          "text": "100",
+          "confidence": 0.9941208958625793,
+          "bbox": [
+            104.66666666666667,
+            33.666666666666664,
+            185.33333333333334,
+            83.33333333333333
+          ]
+        }
+      ],
+      "ocr_text": "100",
+      "numeric_value_text": "100"
+    },
+    {
+      "bbox": [
+        1094.343505859375,
+        1903.624755859375,
+        1317.0250244140625,
+        2012.5594482421875
+      ],
+      "confidence": 0.802735447883606,
+      "class_id": 1,
+      "class_name": "D2",
+      "alias": "pile_diameter",
+      "source_model": "C:\\yw\\Project\\jt-master\\output\\text_detection_73_cropped_by_best\\yolov8m\\weights\\best.pt",
+      "bbox_abs": [
+        1547.343505859375,
+        2045.624755859375,
+        1770.0250244140625,
+        2154.5594482421875
+      ],
+      "ocr_bbox_in_crop": [
+        1076,
+        1890,
+        1335,
+        2027
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_mixed_old_d1d2_rootbest_l1_paddleocrv4_gpu\\ocr_crops\\04_D2_0.80.png",
+      "ocr_engine": "paddleocrv4",
+      "ocr_device": "gpu:0",
+      "ocr_rows": [
+        {
+          "text": "100",
+          "confidence": 0.9757735729217529,
+          "bbox": [
+            109.66666666666667,
+            27.333333333333332,
+            190.33333333333334,
+            79.66666666666667
+          ]
+        }
+      ],
+      "ocr_text": "100",
+      "numeric_value_text": "100"
+    },
+    {
+      "bbox": [
+        1606.4183349609375,
+        863.854248046875,
+        1854.6181640625,
+        1014.7413330078125
+      ],
+      "confidence": 0.6730265021324158,
+      "class_id": 2,
+      "class_name": "L1",
+      "alias": "column_spacing",
+      "source_model": "C:\\yw\\Project\\jt-master\\best.pt",
+      "bbox_abs": [
+        2059.4183349609375,
+        1005.854248046875,
+        2307.6181640625,
+        1156.7413330078125
+      ],
+      "ocr_bbox_in_crop": [
+        1588,
+        850,
+        1873,
+        1029
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_mixed_old_d1d2_rootbest_l1_paddleocrv4_gpu\\ocr_crops\\05_L1_0.67.png",
+      "ocr_engine": "paddleocrv4",
+      "ocr_device": "gpu:0",
+      "ocr_rows": [
+        {
+          "text": "680",
+          "confidence": 0.9965782165527344,
+          "bbox": [
+            91.66666666666667,
+            63.333333333333336,
+            172.33333333333334,
+            117.0
+          ]
+        },
+        {
+          "text": "·",
+          "confidence": 0.21785980463027954,
+          "bbox": [
+            128.66666666666666,
+            159.66666666666666,
+            139.33333333333334,
+            170.0
+          ]
+        }
+      ],
+      "ocr_text": "680 ·",
+      "numeric_value_text": "680"
+    }
+  ]
+}

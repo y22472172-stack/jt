@@ -1,0 +1,150 @@
+{
+  "image": "C:\\yw\\Project\\jt-master\\GL5.102.AZ-507(1)_images\\page_0022.png",
+  "limian_model": "C:\\Users\\ASUS\\Desktop\\output\\limian\\yolo\\weights\\best.pt",
+  "param_model": "C:\\yw\\Project\\jt-master\\output\\text_detection_73_l1_transfer_finetune_from_old\\yolov8m_lr001\\weights\\best.pt",
+  "ocr_engine": "paddleocrv4",
+  "ocr_device": "gpu:0",
+  "limian_detection": {
+    "bbox": [
+      472.8082580566406,
+      162.21022033691406,
+      3875.740478515625,
+      2672.21826171875
+    ],
+    "confidence": 0.7678396105766296,
+    "class_id": 0,
+    "class_name": "lim"
+  },
+  "crop_bbox": [
+    453,
+    142,
+    3896,
+    2692
+  ],
+  "crop_path": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_l1_transfer_finetune_from_old_paddleocrv4_gpu\\page_0022_abutment_elevation_crop.png",
+  "detections": [
+    {
+      "bbox": [
+        2150.89794921875,
+        1010.3062744140625,
+        2327.493896484375,
+        1095.7587890625
+      ],
+      "confidence": 0.8202635645866394,
+      "class_id": 0,
+      "class_name": "D1",
+      "alias": "柱宽",
+      "bbox_abs": [
+        2603.89794921875,
+        1152.3062744140625,
+        2780.493896484375,
+        1237.7587890625
+      ],
+      "ocr_bbox_in_crop": [
+        2133,
+        996,
+        2345,
+        1110
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_l1_transfer_finetune_from_old_paddleocrv4_gpu\\ocr_crops\\01_D1_0.82.png",
+      "ocr_engine": "paddleocrv4",
+      "ocr_device": "gpu:0",
+      "ocr_rows": [
+        {
+          "text": "_80",
+          "confidence": 0.7096924781799316,
+          "bbox": [
+            48.333333333333336,
+            7.0,
+            147.0,
+            76.0
+          ]
+        }
+      ],
+      "ocr_text": "_80",
+      "numeric_value_text": "80"
+    },
+    {
+      "bbox": [
+        2131.89208984375,
+        1899.81591796875,
+        2351.819091796875,
+        2006.27685546875
+      ],
+      "confidence": 0.6417109966278076,
+      "class_id": 1,
+      "class_name": "D2",
+      "alias": "桩直径",
+      "bbox_abs": [
+        2584.89208984375,
+        2041.81591796875,
+        2804.819091796875,
+        2148.27685546875
+      ],
+      "ocr_bbox_in_crop": [
+        2114,
+        1886,
+        2370,
+        2020
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_l1_transfer_finetune_from_old_paddleocrv4_gpu\\ocr_crops\\02_D2_0.64.png",
+      "ocr_engine": "paddleocrv4",
+      "ocr_device": "gpu:0",
+      "ocr_rows": [
+        {
+          "text": "100",
+          "confidence": 0.9986222386360168,
+          "bbox": [
+            104.0,
+            32.666666666666664,
+            186.0,
+            84.66666666666667
+          ]
+        }
+      ],
+      "ocr_text": "100",
+      "numeric_value_text": "100"
+    },
+    {
+      "bbox": [
+        1090.637939453125,
+        1903.045654296875,
+        1316.1944580078125,
+        2007.730224609375
+      ],
+      "confidence": 0.7326988577842712,
+      "class_id": 1,
+      "class_name": "D2",
+      "alias": "桩直径",
+      "bbox_abs": [
+        1543.637939453125,
+        2045.045654296875,
+        1769.1944580078125,
+        2149.730224609375
+      ],
+      "ocr_bbox_in_crop": [
+        1073,
+        1889,
+        1334,
+        2022
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_l1_transfer_finetune_from_old_paddleocrv4_gpu\\ocr_crops\\03_D2_0.73.png",
+      "ocr_engine": "paddleocrv4",
+      "ocr_device": "gpu:0",
+      "ocr_rows": [
+        {
+          "text": "100",
+          "confidence": 0.9518792629241943,
+          "bbox": [
+            112.0,
+            27.333333333333332,
+            194.0,
+            80.33333333333333
+          ]
+        }
+      ],
+      "ocr_text": "100",
+      "numeric_value_text": "100"
+    }
+  ]
+}

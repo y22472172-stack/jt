@@ -1,0 +1,1783 @@
+{
+  "model": "C:\\yw\\Project\\jt-master\\best.pt",
+  "images_dir": "C:\\yw\\Project\\jt-master\\73\\images",
+  "xmls_dir": "C:\\yw\\Project\\jt-master\\73\\xmls",
+  "backup_dir": "C:\\yw\\Project\\jt-master\\73\\xmls_backup_before_l1_relabel_20260522_002226",
+  "conf": 0.15,
+  "iou": 0.7,
+  "imgsz": 1280,
+  "class_name": "L1",
+  "items": [
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt1.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt1.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            625,
+            523,
+            717,
+            597
+          ],
+          "confidence": 0.6194128394126892
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt10.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt10.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            683,
+            511,
+            785,
+            591
+          ],
+          "confidence": 0.6232188940048218
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt11.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt11.xml",
+      "old_l1_count": 2,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            957,
+            471,
+            1032,
+            527
+          ],
+          "confidence": 0.7485045790672302
+        },
+        {
+          "bbox": [
+            621,
+            473,
+            698,
+            529
+          ],
+          "confidence": 0.7031493186950684
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt12.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt12.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            656,
+            451,
+            764,
+            534
+          ],
+          "confidence": 0.3604767322540283
+        },
+        {
+          "bbox": [
+            663,
+            457,
+            751,
+            527
+          ],
+          "confidence": 0.5840165615081787
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt13.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt13.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            671,
+            461,
+            753,
+            521
+          ],
+          "confidence": 0.6696281433105469
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt14.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt14.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            757,
+            488,
+            835,
+            545
+          ],
+          "confidence": 0.6842758059501648
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt15.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt15.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            755,
+            466,
+            833,
+            523
+          ],
+          "confidence": 0.7255926132202148
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt16.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt16.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            707,
+            427,
+            787,
+            488
+          ],
+          "confidence": 0.6477124691009521
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt17.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt17.xml",
+      "old_l1_count": 2,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            649,
+            489,
+            719,
+            545
+          ],
+          "confidence": 0.5637558698654175
+        },
+        {
+          "bbox": [
+            957,
+            490,
+            1025,
+            543
+          ],
+          "confidence": 0.5473816394805908
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt18.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt18.xml",
+      "old_l1_count": 2,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            865,
+            483,
+            942,
+            539
+          ],
+          "confidence": 0.7386825084686279
+        },
+        {
+          "bbox": [
+            556,
+            484,
+            635,
+            538
+          ],
+          "confidence": 0.7484484910964966
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt19.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt19.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            782,
+            465,
+            888,
+            540
+          ],
+          "confidence": 0.5923610329627991
+        },
+        {
+          "bbox": [
+            790,
+            471,
+            876,
+            534
+          ],
+          "confidence": 0.1672273576259613
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt2.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt2.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            771,
+            446,
+            852,
+            505
+          ],
+          "confidence": 0.7198693156242371
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt20.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt20.xml",
+      "old_l1_count": 2,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            633,
+            397,
+            717,
+            458
+          ],
+          "confidence": 0.2938173711299896
+        },
+        {
+          "bbox": [
+            865,
+            398,
+            932,
+            455
+          ],
+          "confidence": 0.6373575329780579
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt21.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt21.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            739,
+            414,
+            830,
+            474
+          ],
+          "confidence": 0.739119827747345
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt22.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt22.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            629,
+            440,
+            713,
+            501
+          ],
+          "confidence": 0.7501693964004517
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt23.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt23.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            2125,
+            96,
+            2317,
+            201
+          ],
+          "confidence": 0.3158693015575409
+        },
+        {
+          "bbox": [
+            669,
+            489,
+            754,
+            557
+          ],
+          "confidence": 0.6207156777381897
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt24.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt24.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            706,
+            427,
+            787,
+            488
+          ],
+          "confidence": 0.6490663290023804
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt25.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt25.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            625,
+            523,
+            717,
+            597
+          ],
+          "confidence": 0.6194128394126892
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt26.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt26.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            603,
+            388,
+            716,
+            469
+          ],
+          "confidence": 0.3747270405292511
+        },
+        {
+          "bbox": [
+            608,
+            395,
+            700,
+            460
+          ],
+          "confidence": 0.6203406453132629
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt27.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt27.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            710,
+            470,
+            809,
+            545
+          ],
+          "confidence": 0.3363933265209198
+        },
+        {
+          "bbox": [
+            721,
+            475,
+            800,
+            537
+          ],
+          "confidence": 0.5767875909805298
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt28.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt28.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            714,
+            421,
+            817,
+            495
+          ],
+          "confidence": 0.4717622399330139
+        },
+        {
+          "bbox": [
+            719,
+            427,
+            804,
+            489
+          ],
+          "confidence": 0.5737278461456299
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt29.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt29.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            750,
+            499,
+            837,
+            565
+          ],
+          "confidence": 0.6800134778022766
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt3.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt3.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            603,
+            388,
+            716,
+            469
+          ],
+          "confidence": 0.3747270405292511
+        },
+        {
+          "bbox": [
+            608,
+            395,
+            700,
+            460
+          ],
+          "confidence": 0.6203406453132629
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt30.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt30.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            301,
+            123,
+            455,
+            249
+          ],
+          "confidence": 0.17191345989704132
+        },
+        {
+          "bbox": [
+            658,
+            457,
+            744,
+            518
+          ],
+          "confidence": 0.6736096739768982
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt31.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt31.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            683,
+            511,
+            785,
+            591
+          ],
+          "confidence": 0.6232188940048218
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt32.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt32.xml",
+      "old_l1_count": 2,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            957,
+            471,
+            1032,
+            527
+          ],
+          "confidence": 0.7485045790672302
+        },
+        {
+          "bbox": [
+            621,
+            473,
+            698,
+            529
+          ],
+          "confidence": 0.7031493186950684
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt33.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt33.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            656,
+            451,
+            764,
+            534
+          ],
+          "confidence": 0.3604767322540283
+        },
+        {
+          "bbox": [
+            663,
+            457,
+            751,
+            527
+          ],
+          "confidence": 0.5840165615081787
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt34.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt34.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            671,
+            461,
+            753,
+            521
+          ],
+          "confidence": 0.6696281433105469
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt35.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt35.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            782,
+            465,
+            888,
+            540
+          ],
+          "confidence": 0.5923610329627991
+        },
+        {
+          "bbox": [
+            790,
+            471,
+            876,
+            534
+          ],
+          "confidence": 0.1672273576259613
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt36.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt36.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            786,
+            469,
+            876,
+            538
+          ],
+          "confidence": 0.6083682179450989
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt37.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt37.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            757,
+            485,
+            868,
+            566
+          ],
+          "confidence": 0.2730613648891449
+        },
+        {
+          "bbox": [
+            765,
+            490,
+            851,
+            559
+          ],
+          "confidence": 0.6628350019454956
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt38.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt38.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            719,
+            504,
+            802,
+            560
+          ],
+          "confidence": 0.7420886158943176
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt39.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt39.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            711,
+            470,
+            809,
+            545
+          ],
+          "confidence": 0.3439992070198059
+        },
+        {
+          "bbox": [
+            721,
+            475,
+            799,
+            537
+          ],
+          "confidence": 0.587425947189331
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt4.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt4.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            710,
+            470,
+            809,
+            545
+          ],
+          "confidence": 0.3363933265209198
+        },
+        {
+          "bbox": [
+            721,
+            475,
+            800,
+            537
+          ],
+          "confidence": 0.5767875909805298
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt40.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt40.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            710,
+            396,
+            825,
+            476
+          ],
+          "confidence": 0.467764288187027
+        },
+        {
+          "bbox": [
+            715,
+            402,
+            806,
+            470
+          ],
+          "confidence": 0.6322830319404602
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt41.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt41.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            744,
+            399,
+            850,
+            479
+          ],
+          "confidence": 0.4564744830131531
+        },
+        {
+          "bbox": [
+            750,
+            407,
+            837,
+            471
+          ],
+          "confidence": 0.7095773816108704
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt42.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt42.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            688,
+            427,
+            771,
+            486
+          ],
+          "confidence": 0.6534057855606079
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt43.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt43.xml",
+      "old_l1_count": 2,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            1027,
+            457,
+            1117,
+            519
+          ],
+          "confidence": 0.4796360433101654
+        },
+        {
+          "bbox": [
+            523,
+            459,
+            604,
+            519
+          ],
+          "confidence": 0.5615405440330505
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt44.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt44.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 3,
+      "detections": [
+        {
+          "bbox": [
+            721,
+            509,
+            807,
+            576
+          ],
+          "confidence": 0.2637459635734558
+        },
+        {
+          "bbox": [
+            726,
+            516,
+            800,
+            569
+          ],
+          "confidence": 0.7207496166229248
+        },
+        {
+          "bbox": [
+            723,
+            1252,
+            803,
+            1301
+          ],
+          "confidence": 0.18626369535923004
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt45.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt45.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            670,
+            440,
+            746,
+            504
+          ],
+          "confidence": 0.6339871287345886
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt46.jpg",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt46.xml",
+      "old_l1_count": 2,
+      "new_l1_count": 3,
+      "detections": [
+        {
+          "bbox": [
+            967,
+            388,
+            1045,
+            454
+          ],
+          "confidence": 0.16145570576190948
+        },
+        {
+          "bbox": [
+            666,
+            392,
+            736,
+            446
+          ],
+          "confidence": 0.6520988345146179
+        },
+        {
+          "bbox": [
+            974,
+            394,
+            1038,
+            446
+          ],
+          "confidence": 0.677147388458252
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt47.jpg",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt47.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            1223,
+            878,
+            1436,
+            1026
+          ],
+          "confidence": 0.35823675990104675
+        },
+        {
+          "bbox": [
+            1243,
+            891,
+            1415,
+            1012
+          ],
+          "confidence": 0.5792804956436157
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt48.jpg",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt48.xml",
+      "old_l1_count": 2,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            2201,
+            992,
+            2418,
+            1142
+          ],
+          "confidence": 0.5275606513023376
+        },
+        {
+          "bbox": [
+            1445,
+            998,
+            1644,
+            1139
+          ],
+          "confidence": 0.5103818774223328
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt49.jpg",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt49.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            1553,
+            885,
+            1760,
+            1024
+          ],
+          "confidence": 0.6548337340354919
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt5.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt5.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            723,
+            431,
+            800,
+            490
+          ],
+          "confidence": 0.6928041577339172
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt50.jpg",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt50.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            1612,
+            915,
+            1808,
+            1007
+          ],
+          "confidence": 0.41220754384994507
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt51.jpg",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt51.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 0,
+      "detections": []
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt52.jpg",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt52.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 5,
+      "detections": [
+        {
+          "bbox": [
+            235,
+            127,
+            395,
+            235
+          ],
+          "confidence": 0.47432416677474976
+        },
+        {
+          "bbox": [
+            551,
+            388,
+            636,
+            454
+          ],
+          "confidence": 0.2666093111038208
+        },
+        {
+          "bbox": [
+            558,
+            394,
+            628,
+            447
+          ],
+          "confidence": 0.5895755887031555
+        },
+        {
+          "bbox": [
+            567,
+            1188,
+            637,
+            1215
+          ],
+          "confidence": 0.152072012424469
+        },
+        {
+          "bbox": [
+            564,
+            1201,
+            634,
+            1233
+          ],
+          "confidence": 0.3748764097690582
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt53.jpg",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt53.xml",
+      "old_l1_count": 2,
+      "new_l1_count": 4,
+      "detections": [
+        {
+          "bbox": [
+            573,
+            299,
+            658,
+            348
+          ],
+          "confidence": 0.2401544451713562
+        },
+        {
+          "bbox": [
+            561,
+            394,
+            630,
+            447
+          ],
+          "confidence": 0.6269614100456238
+        },
+        {
+          "bbox": [
+            926,
+            396,
+            993,
+            448
+          ],
+          "confidence": 0.6433525085449219
+        },
+        {
+          "bbox": [
+            576,
+            1182,
+            646,
+            1224
+          ],
+          "confidence": 0.18153390288352966
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt54.jpg",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt54.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            779,
+            383,
+            866,
+            430
+          ],
+          "confidence": 0.6835311055183411
+        },
+        {
+          "bbox": [
+            783,
+            392,
+            866,
+            445
+          ],
+          "confidence": 0.22747913002967834
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt55.jpg",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt55.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 4,
+      "detections": [
+        {
+          "bbox": [
+            730,
+            382,
+            817,
+            430
+          ],
+          "confidence": 0.6670265197753906
+        },
+        {
+          "bbox": [
+            733,
+            391,
+            817,
+            462
+          ],
+          "confidence": 0.2450372725725174
+        },
+        {
+          "bbox": [
+            735,
+            402,
+            814,
+            451
+          ],
+          "confidence": 0.19475248456001282
+        },
+        {
+          "bbox": [
+            736,
+            417,
+            812,
+            464
+          ],
+          "confidence": 0.2511054277420044
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt56.jpg",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt56.xml",
+      "old_l1_count": 2,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            1949,
+            943,
+            2105,
+            1046
+          ],
+          "confidence": 0.7953984141349792
+        },
+        {
+          "bbox": [
+            1193,
+            947,
+            1359,
+            1049
+          ],
+          "confidence": 0.7295747399330139
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt57.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt57.xml",
+      "old_l1_count": 2,
+      "new_l1_count": 5,
+      "detections": [
+        {
+          "bbox": [
+            375,
+            328,
+            476,
+            379
+          ],
+          "confidence": 0.22864195704460144
+        },
+        {
+          "bbox": [
+            634,
+            398,
+            721,
+            451
+          ],
+          "confidence": 0.27599242329597473
+        },
+        {
+          "bbox": [
+            932,
+            445,
+            1014,
+            491
+          ],
+          "confidence": 0.1543157696723938
+        },
+        {
+          "bbox": [
+            935,
+            449,
+            1011,
+            501
+          ],
+          "confidence": 0.7766849994659424
+        },
+        {
+          "bbox": [
+            572,
+            452,
+            651,
+            503
+          ],
+          "confidence": 0.7244952321052551
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt58.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt58.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 3,
+      "detections": [
+        {
+          "bbox": [
+            758,
+            468,
+            858,
+            540
+          ],
+          "confidence": 0.18107765913009644
+        },
+        {
+          "bbox": [
+            763,
+            474,
+            847,
+            533
+          ],
+          "confidence": 0.743866503238678
+        },
+        {
+          "bbox": [
+            769,
+            1197,
+            851,
+            1249
+          ],
+          "confidence": 0.1995886266231537
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt59.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt59.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            726,
+            468,
+            801,
+            523
+          ],
+          "confidence": 0.6998058557510376
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt6.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt6.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            714,
+            421,
+            817,
+            495
+          ],
+          "confidence": 0.4717622399330139
+        },
+        {
+          "bbox": [
+            719,
+            427,
+            804,
+            489
+          ],
+          "confidence": 0.5737278461456299
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt60.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt60.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            725,
+            449,
+            801,
+            503
+          ],
+          "confidence": 0.7276060581207275
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt61.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt61.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            579,
+            372,
+            685,
+            450
+          ],
+          "confidence": 0.3172910511493683
+        },
+        {
+          "bbox": [
+            585,
+            379,
+            671,
+            442
+          ],
+          "confidence": 0.6105623245239258
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt62.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt62.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            682,
+            451,
+            775,
+            520
+          ],
+          "confidence": 0.44317904114723206
+        },
+        {
+          "bbox": [
+            691,
+            455,
+            767,
+            515
+          ],
+          "confidence": 0.5735608339309692
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt63.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt63.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            332,
+            167,
+            527,
+            299
+          ],
+          "confidence": 0.50242018699646
+        },
+        {
+          "bbox": [
+            718,
+            478,
+            804,
+            542
+          ],
+          "confidence": 0.6655735969543457
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt64.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt64.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            630,
+            433,
+            734,
+            512
+          ],
+          "confidence": 0.38113710284233093
+        },
+        {
+          "bbox": [
+            637,
+            439,
+            721,
+            505
+          ],
+          "confidence": 0.6172100305557251
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt65.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt65.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            644,
+            442,
+            723,
+            500
+          ],
+          "confidence": 0.6545636057853699
+        },
+        {
+          "bbox": [
+            649,
+            1169,
+            721,
+            1217
+          ],
+          "confidence": 0.3669268488883972
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt66.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt66.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 3,
+      "detections": [
+        {
+          "bbox": [
+            284,
+            118,
+            437,
+            242
+          ],
+          "confidence": 0.23476608097553253
+        },
+        {
+          "bbox": [
+            630,
+            431,
+            728,
+            500
+          ],
+          "confidence": 0.3275466561317444
+        },
+        {
+          "bbox": [
+            632,
+            438,
+            714,
+            495
+          ],
+          "confidence": 0.6979630589485168
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt67.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt67.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            656,
+            490,
+            755,
+            565
+          ],
+          "confidence": 0.6112947463989258
+        },
+        {
+          "bbox": [
+            663,
+            495,
+            746,
+            553
+          ],
+          "confidence": 0.23814697563648224
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt68.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt68.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            633,
+            418,
+            719,
+            484
+          ],
+          "confidence": 0.628637433052063
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt69.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt69.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            683,
+            450,
+            775,
+            520
+          ],
+          "confidence": 0.4440613389015198
+        },
+        {
+          "bbox": [
+            692,
+            455,
+            766,
+            515
+          ],
+          "confidence": 0.5873799324035645
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt7.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt7.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            750,
+            499,
+            837,
+            565
+          ],
+          "confidence": 0.6800134778022766
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt70.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt70.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            682,
+            381,
+            792,
+            457
+          ],
+          "confidence": 0.4673956036567688
+        },
+        {
+          "bbox": [
+            686,
+            386,
+            775,
+            451
+          ],
+          "confidence": 0.6632023453712463
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt71.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt71.xml",
+      "old_l1_count": 2,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            993,
+            440,
+            1073,
+            499
+          ],
+          "confidence": 0.547924280166626
+        },
+        {
+          "bbox": [
+            503,
+            441,
+            576,
+            494
+          ],
+          "confidence": 0.5520564913749695
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt72.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt72.xml",
+      "old_l1_count": 2,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            938,
+            460,
+            1013,
+            517
+          ],
+          "confidence": 0.6459351778030396
+        },
+        {
+          "bbox": [
+            652,
+            461,
+            728,
+            515
+          ],
+          "confidence": 0.7537575960159302
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt73.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt73.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 1,
+      "detections": [
+        {
+          "bbox": [
+            699,
+            475,
+            776,
+            529
+          ],
+          "confidence": 0.3395150303840637
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt8.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt8.xml",
+      "old_l1_count": 2,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            899,
+            510,
+            984,
+            576
+          ],
+          "confidence": 0.5840913653373718
+        },
+        {
+          "bbox": [
+            600,
+            511,
+            675,
+            576
+          ],
+          "confidence": 0.5984365344047546
+        }
+      ]
+    },
+    {
+      "image": "C:\\yw\\Project\\jt-master\\73\\images\\qt9.png",
+      "xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt9.xml",
+      "old_l1_count": 1,
+      "new_l1_count": 2,
+      "detections": [
+        {
+          "bbox": [
+            301,
+            123,
+            455,
+            249
+          ],
+          "confidence": 0.17191345989704132
+        },
+        {
+          "bbox": [
+            658,
+            457,
+            744,
+            518
+          ],
+          "confidence": 0.6736096739768982
+        }
+      ]
+    }
+  ]
+}

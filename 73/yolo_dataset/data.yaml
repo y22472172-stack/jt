@@ -1,0 +1,8 @@
+path: C:/yw/Project/jt-master/73/yolo_dataset
+train: images/train
+val: images/val
+nc: 3
+names:
+  - D1
+  - D2
+  - L1

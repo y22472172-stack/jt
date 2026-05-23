@@ -1,0 +1,6 @@
+﻿index,class,alias,confidence,numeric_value_text,ocr_text,source_model,bbox_abs
+1,D1,column_width,0.736127,80,80,C:\yw\Project\jt-master\output\text_detection_73_cropped_by_best\yolov8m\weights\best.pt,"[2602.38134765625, 1153.9022216796875, 2781.059814453125, 1236.8165283203125]"
+2,D1,column_width,0.554470,80,80,C:\yw\Project\jt-master\output\text_detection_73_cropped_by_best\yolov8m\weights\best.pt,"[1577.8079833984375, 1154.4986572265625, 1745.6407470703125, 1241.65625]"
+3,D2,pile_diameter,0.790789,100,100,C:\yw\Project\jt-master\output\text_detection_73_cropped_by_best\yolov8m\weights\best.pt,"[2584.71484375, 2042.414794921875, 2804.2451171875, 2153.91259765625]"
+4,D2,pile_diameter,0.802735,100,100,C:\yw\Project\jt-master\output\text_detection_73_cropped_by_best\yolov8m\weights\best.pt,"[1547.343505859375, 2045.624755859375, 1770.0250244140625, 2154.5594482421875]"
+5,L1,column_spacing,0.673027,680,680 ·,C:\yw\Project\jt-master\best.pt,"[2059.4183349609375, 1005.854248046875, 2307.6181640625, 1156.7413330078125]"

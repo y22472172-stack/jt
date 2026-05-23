@@ -1,0 +1,154 @@
+{
+  "items": [
+    {
+      "bbox": [
+        1122.6453857421875,
+        1004.5131225585938,
+        1292.1802978515625,
+        1098.5863037109375
+      ],
+      "confidence": 0.27730876207351685,
+      "class_id": 0,
+      "class_name": "D1",
+      "alias": "柱宽",
+      "bbox_abs": [
+        1575.6453857421875,
+        1146.5131225585938,
+        1745.1802978515625,
+        1240.5863037109375
+      ],
+      "ocr_bbox_in_crop": [
+        1105,
+        991,
+        1310,
+        1113
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_l1_transfer_yolov8m_paddleocrv4_gpu\\ocr_crops\\01_D1_0.28.png"
+    },
+    {
+      "bbox": [
+        2149.71533203125,
+        1008.4077758789062,
+        2327.71044921875,
+        1097.525634765625
+      ],
+      "confidence": 0.8744849562644958,
+      "class_id": 0,
+      "class_name": "D1",
+      "alias": "柱宽",
+      "bbox_abs": [
+        2602.71533203125,
+        1150.4077758789062,
+        2780.71044921875,
+        1239.525634765625
+      ],
+      "ocr_bbox_in_crop": [
+        2132,
+        994,
+        2346,
+        1112
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_l1_transfer_yolov8m_paddleocrv4_gpu\\ocr_crops\\02_D1_0.87.png"
+    },
+    {
+      "bbox": [
+        1094.8046875,
+        1898.2138671875,
+        1320.2537841796875,
+        2010.8477783203125
+      ],
+      "confidence": 0.630221426486969,
+      "class_id": 1,
+      "class_name": "D2",
+      "alias": "桩直径",
+      "bbox_abs": [
+        1547.8046875,
+        2040.2138671875,
+        1773.2537841796875,
+        2152.8477783203125
+      ],
+      "ocr_bbox_in_crop": [
+        1077,
+        1884,
+        1338,
+        2025
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_l1_transfer_yolov8m_paddleocrv4_gpu\\ocr_crops\\03_D2_0.63.png"
+    },
+    {
+      "bbox": [
+        2132.927734375,
+        1899.8076171875,
+        2354.166748046875,
+        2007.2960205078125
+      ],
+      "confidence": 0.8553243279457092,
+      "class_id": 1,
+      "class_name": "D2",
+      "alias": "桩直径",
+      "bbox_abs": [
+        2585.927734375,
+        2041.8076171875,
+        2807.166748046875,
+        2149.2960205078125
+      ],
+      "ocr_bbox_in_crop": [
+        2115,
+        1886,
+        2372,
+        2021
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_l1_transfer_yolov8m_paddleocrv4_gpu\\ocr_crops\\04_D2_0.86.png"
+    },
+    {
+      "bbox": [
+        1617.8931884765625,
+        887.064208984375,
+        1818.0028076171875,
+        1015.4615478515625
+      ],
+      "confidence": 0.9291287064552307,
+      "class_id": 2,
+      "class_name": "L1",
+      "alias": "柱距",
+      "bbox_abs": [
+        2070.8931884765625,
+        1029.064208984375,
+        2271.0028076171875,
+        1157.4615478515625
+      ],
+      "ocr_bbox_in_crop": [
+        1600,
+        873,
+        1836,
+        1029
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_l1_transfer_yolov8m_paddleocrv4_gpu\\ocr_crops\\05_L1_0.93.png"
+    },
+    {
+      "bbox": [
+        1615.813720703125,
+        1167.493896484375,
+        1836.5263671875,
+        1299.438720703125
+      ],
+      "confidence": 0.8898484706878662,
+      "class_id": 2,
+      "class_name": "L1",
+      "alias": "柱距",
+      "bbox_abs": [
+        2068.813720703125,
+        1309.493896484375,
+        2289.5263671875,
+        1441.438720703125
+      ],
+      "ocr_bbox_in_crop": [
+        1598,
+        1153,
+        1855,
+        1313
+      ],
+      "ocr_crop": "C:\\yw\\Project\\jt-master\\projects\\elevation_detection\\results\\page_0022_l1_transfer_yolov8m_paddleocrv4_gpu\\ocr_crops\\06_L1_0.89.png"
+    }
+  ]
+}

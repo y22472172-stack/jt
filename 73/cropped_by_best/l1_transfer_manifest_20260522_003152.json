@@ -1,0 +1,886 @@
+{
+  "source_xmls": "C:\\yw\\Project\\jt-master\\73\\xmls",
+  "cropped_xmls": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls",
+  "backup_dir": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls_backup_before_l1_transfer_20260522_003152",
+  "class_name": "L1",
+  "total_old_l1": 87,
+  "total_new_l1": 88,
+  "items": [
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt1.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt1_roi0.xml",
+      "crop_bbox": [
+        190,
+        71,
+        1154,
+        1112
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt10.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt10_roi0.xml",
+      "crop_bbox": [
+        206,
+        80,
+        1252,
+        1160
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt11.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt11_roi0.xml",
+      "crop_bbox": [
+        179,
+        85,
+        1467,
+        1074
+      ],
+      "old_l1_count": 2,
+      "new_l1_count": 2
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt12.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt12_roi0.xml",
+      "crop_bbox": [
+        198,
+        74,
+        1190,
+        1111
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt13.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt13_roi0.xml",
+      "crop_bbox": [
+        166,
+        62,
+        1211,
+        906
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt14.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt14_roi0.xml",
+      "crop_bbox": [
+        194,
+        99,
+        1345,
+        863
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt15.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt15_roi0.xml",
+      "crop_bbox": [
+        227,
+        88,
+        1411,
+        904
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt16.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt16_roi0.xml",
+      "crop_bbox": [
+        159,
+        64,
+        1293,
+        894
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt17.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt17_roi0.xml",
+      "crop_bbox": [
+        227,
+        64,
+        1490,
+        918
+      ],
+      "old_l1_count": 2,
+      "new_l1_count": 2
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt18.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt18_roi0.xml",
+      "crop_bbox": [
+        199,
+        59,
+        1374,
+        998
+      ],
+      "old_l1_count": 2,
+      "new_l1_count": 2
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt19.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt19_roi0.xml",
+      "crop_bbox": [
+        299,
+        84,
+        1416,
+        1136
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt2.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt2_roi0.xml",
+      "crop_bbox": [
+        166,
+        52,
+        1383,
+        932
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt20.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt20_roi0.xml",
+      "crop_bbox": [
+        208,
+        72,
+        1270,
+        1007
+      ],
+      "old_l1_count": 2,
+      "new_l1_count": 2
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt21.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt21_roi0.xml",
+      "crop_bbox": [
+        175,
+        63,
+        1337,
+        937
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt22.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt22_roi0.xml",
+      "crop_bbox": [
+        132,
+        71,
+        1242,
+        925
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt23.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt23_roi0.xml",
+      "crop_bbox": [
+        149,
+        72,
+        1190,
+        1028
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt24.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt24_roi0.xml",
+      "crop_bbox": [
+        166,
+        65,
+        1285,
+        895
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt25.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt25_roi0.xml",
+      "crop_bbox": [
+        190,
+        71,
+        1154,
+        1112
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt26.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt26_roi0.xml",
+      "crop_bbox": [
+        183,
+        58,
+        1126,
+        1161
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt27.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt27_roi0.xml",
+      "crop_bbox": [
+        185,
+        69,
+        1375,
+        949
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt28.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt28_roi0.xml",
+      "crop_bbox": [
+        193,
+        65,
+        1333,
+        1077
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt29.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt29_roi0.xml",
+      "crop_bbox": [
+        212,
+        83,
+        1289,
+        1132
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt3.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt3_roi0.xml",
+      "crop_bbox": [
+        183,
+        58,
+        1126,
+        1161
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt30.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt30_roi0.xml",
+      "crop_bbox": [
+        226,
+        79,
+        1232,
+        1174
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt31.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt31_roi0.xml",
+      "crop_bbox": [
+        206,
+        80,
+        1252,
+        1160
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt32.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt32_roi0.xml",
+      "crop_bbox": [
+        179,
+        85,
+        1467,
+        1074
+      ],
+      "old_l1_count": 2,
+      "new_l1_count": 2
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt33.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt33_roi0.xml",
+      "crop_bbox": [
+        198,
+        74,
+        1190,
+        1111
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt34.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt34_roi0.xml",
+      "crop_bbox": [
+        166,
+        62,
+        1211,
+        906
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt35.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt35_roi0.xml",
+      "crop_bbox": [
+        299,
+        84,
+        1416,
+        1136
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt36.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt36_roi0.xml",
+      "crop_bbox": [
+        238,
+        76,
+        1363,
+        1140
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt37.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt37_roi0.xml",
+      "crop_bbox": [
+        183,
+        70,
+        1335,
+        1092
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt38.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt38_roi0.xml",
+      "crop_bbox": [
+        165,
+        69,
+        1305,
+        964
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt39.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt39_roi0.xml",
+      "crop_bbox": [
+        183,
+        69,
+        1377,
+        948
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt4.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt4_roi0.xml",
+      "crop_bbox": [
+        185,
+        69,
+        1375,
+        949
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt40.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt40_roi0.xml",
+      "crop_bbox": [
+        191,
+        66,
+        1241,
+        1133
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt41.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt41_roi0.xml",
+      "crop_bbox": [
+        247,
+        69,
+        1360,
+        1046
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt42.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt42_roi0.xml",
+      "crop_bbox": [
+        160,
+        64,
+        1260,
+        928
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt43.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt43_roi0.xml",
+      "crop_bbox": [
+        189,
+        82,
+        1426,
+        1100
+      ],
+      "old_l1_count": 2,
+      "new_l1_count": 2
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt44.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt44_roi0.xml",
+      "crop_bbox": [
+        171,
+        65,
+        1277,
+        946
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt45.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt45_roi0.xml",
+      "crop_bbox": [
+        170,
+        67,
+        1235,
+        885
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt46.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt46_roi0.xml",
+      "crop_bbox": [
+        145,
+        56,
+        1442,
+        852
+      ],
+      "old_l1_count": 2,
+      "new_l1_count": 2
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt47.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt47_roi0.xml",
+      "crop_bbox": [
+        360,
+        125,
+        2576,
+        2062
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt48.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt48_roi0.xml",
+      "crop_bbox": [
+        357,
+        117,
+        3433,
+        2188
+      ],
+      "old_l1_count": 2,
+      "new_l1_count": 2
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt49.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt49_roi0.xml",
+      "crop_bbox": [
+        453,
+        126,
+        3032,
+        2069
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt5.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt5_roi0.xml",
+      "crop_bbox": [
+        153,
+        63,
+        1277,
+        866
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt50.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt50_roi0.xml",
+      "crop_bbox": [
+        423,
+        123,
+        3088,
+        1927
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt51.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt51_roi0.xml",
+      "crop_bbox": [
+        786,
+        135,
+        2767,
+        2056
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt52.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt52_roi0.xml",
+      "crop_bbox": [
+        151,
+        53,
+        1144,
+        909
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt53.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt53_roi0.xml",
+      "crop_bbox": [
+        113,
+        50,
+        1499,
+        929
+      ],
+      "old_l1_count": 2,
+      "new_l1_count": 2
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt54.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt54_roi0.xml",
+      "crop_bbox": [
+        212,
+        56,
+        1338,
+        824
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt55.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt55_roi0.xml",
+      "crop_bbox": [
+        219,
+        58,
+        1318,
+        823
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt56.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt56_roi0.xml",
+      "crop_bbox": [
+        286,
+        134,
+        2841,
+        2083
+      ],
+      "old_l1_count": 2,
+      "new_l1_count": 2
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt57.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt57_roi0.xml",
+      "crop_bbox": [
+        143,
+        67,
+        1343,
+        998
+      ],
+      "old_l1_count": 2,
+      "new_l1_count": 2
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt58.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt58_roi0.xml",
+      "crop_bbox": [
+        167,
+        68,
+        1376,
+        927
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt59.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt59_roi0.xml",
+      "crop_bbox": [
+        190,
+        94,
+        1294,
+        837
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt6.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt6_roi0.xml",
+      "crop_bbox": [
+        193,
+        65,
+        1333,
+        1077
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt60.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt60_roi0.xml",
+      "crop_bbox": [
+        223,
+        88,
+        1336,
+        870
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt61.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt61_roi0.xml",
+      "crop_bbox": [
+        189,
+        57,
+        1097,
+        1110
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt62.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt62_roi0.xml",
+      "crop_bbox": [
+        180,
+        65,
+        1316,
+        909
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt63.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt63_roi0.xml",
+      "crop_bbox": [
+        200,
+        81,
+        1251,
+        1085
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt64.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt64_roi0.xml",
+      "crop_bbox": [
+        180,
+        66,
+        1154,
+        1078
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt65.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt65_roi0.xml",
+      "crop_bbox": [
+        168,
+        60,
+        1181,
+        861
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt66.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt66_roi0.xml",
+      "crop_bbox": [
+        209,
+        75,
+        1197,
+        1112
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt67.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt67_roi0.xml",
+      "crop_bbox": [
+        187,
+        75,
+        1209,
+        1116
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt68.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt68_roi0.xml",
+      "crop_bbox": [
+        170,
+        64,
+        1152,
+        1023
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt69.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt69_roi0.xml",
+      "crop_bbox": [
+        181,
+        66,
+        1315,
+        909
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt7.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt7_roi0.xml",
+      "crop_bbox": [
+        212,
+        83,
+        1289,
+        1132
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt70.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt70_roi0.xml",
+      "crop_bbox": [
+        182,
+        61,
+        1192,
+        1113
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt71.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt71_roi0.xml",
+      "crop_bbox": [
+        185,
+        77,
+        1371,
+        1068
+      ],
+      "old_l1_count": 2,
+      "new_l1_count": 2
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt72.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt72_roi0.xml",
+      "crop_bbox": [
+        205,
+        86,
+        1393,
+        909
+      ],
+      "old_l1_count": 2,
+      "new_l1_count": 2
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt73.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt73_roi0.xml",
+      "crop_bbox": [
+        248,
+        80,
+        1171,
+        990
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 1
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt8.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt8_roi0.xml",
+      "crop_bbox": [
+        163,
+        64,
+        1366,
+        1062
+      ],
+      "old_l1_count": 2,
+      "new_l1_count": 2
+    },
+    {
+      "source_xml": "C:\\yw\\Project\\jt-master\\73\\xmls\\qt9.xml",
+      "cropped_xml": "C:\\yw\\Project\\jt-master\\73\\cropped_by_best\\xmls\\qt9_roi0.xml",
+      "crop_bbox": [
+        226,
+        79,
+        1232,
+        1174
+      ],
+      "old_l1_count": 1,
+      "new_l1_count": 2
+    }
+  ]
+}
